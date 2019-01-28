@@ -134,9 +134,10 @@ DEPENDENCIES
   capybara
   learn-co
   rack
+  rack-test
   rspec
   shotgun
   sinatra
 
 BUNDLED WITH
-   1.16.2
+   1.17.2
